@@ -12,5 +12,5 @@ class auto:
 
 # Ejemplo de uso
 if __name__ == "__main__":
-    auto1 = auto("Toyota", "Corolla", 2020)
+    auto1 = auto("Lamborghini", "Ford Ranger", 5000Ac)
     print(auto1.mostrar_informacion())
